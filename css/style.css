@@ -440,7 +440,7 @@ right: 0;
 }
 .numbers {
     position: relative;
-    background-image: url(../images/eee.jpeg);
+    background-image: url(../Images/eee.jpeg);
     height:350px;
     background-size: cover;
     background-attachment: fixed;
@@ -542,7 +542,7 @@ transition: 1s;
 }
 .testimonial {
     position: relative;
-    background-image: url(../images/zzz.png);
+    background-image: url(../Images/zzz.png);
     background-attachment: fixed;
     background-size: cover;
     height: 350px;
